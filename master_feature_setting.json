@@ -1,0 +1,13 @@
+{
+  "header": {
+    "content_type": "master_feature_settings"
+  },
+  "payload": [
+    {
+      "id": "1",
+      "feature_id": "FEATURE_001",
+      "enabled": "1",
+      "version": "9.99.999"
+    }
+  ]
+}
