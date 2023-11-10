@@ -1,7 +1,7 @@
 ﻿{
   "header": {
     "content_type": "master_event_term",
-    "timezone": "Asia/Taipei"
+    "timezone": "Asia/Tokyo"
   },
   "payload": [
     {
@@ -1075,8 +1075,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-08-07 11:00:00",
-          "term_end": "2023-12-01 10:00:00",
+          "term_start": "2023-06-14 08:00:00",
+          "term_end": "2023-06-25 23:59:59",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -1091,8 +1091,7 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-08-07 11:00:00",
-          "term_end": "2023-12-08 10:00:00",
+          "term_start": "2023-06-14 08:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -1107,8 +1106,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-12-04 10:00:00",
-          "term_end": "2023-12-08 10:00:00",
+          "term_start": "2023-06-27 12:00:00",
+          "term_end": "2023-07-30 23:59:59",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -1123,8 +1122,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-12-04 10:00:00",
-          "term_end": "2023-12-08 10:00:00",
+          "term_start": "2023-06-27 12:00:00",
+          "term_end": "2023-07-30 23:59:59",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -1203,8 +1202,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-08-07 11:00:00",
-          "term_end": "2023-12-01 10:00:00",
+          "term_start": "2023-06-28 11:00:00",
+          "term_end": "2023-07-09 23:59:59",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -1219,8 +1218,7 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-08-07 11:00:00",
-          "term_end": "2023-12-08 10:00:00",
+          "term_start": "2023-06-28 11:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -1235,8 +1233,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-12-04 10:00:00",
-          "term_end": "2023-12-08 10:00:00",
+          "term_start": "2023-07-11 12:00:00",
+          "term_end": "2023-08-13 23:59:59",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -1251,8 +1249,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-12-04 10:00:00",
-          "term_end": "2023-12-08 10:00:00",
+          "term_start": "2023-07-11 12:00:00",
+          "term_end": "2023-08-13 23:59:59",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -1350,44 +1348,8 @@
           "term_start": "2023-01-01 00:00:00",
           "on_days_start": "",
           "on_days_end": "",
-          "on_hours_start": "8:00",
-          "on_hours_end": "9:00",
-          "on_wday": "31"
-        },
-        {
-          "mode": "0",
-          "term_start": "2023-01-01 00:00:00",
-          "on_days_start": "",
-          "on_days_end": "",
-          "on_hours_start": "10:00",
-          "on_hours_end": "11:00",
-          "on_wday": "31"
-        },
-        {
-          "mode": "0",
-          "term_start": "2023-01-01 00:00:00",
-          "on_days_start": "",
-          "on_days_end": "",
-          "on_hours_start": "12:00",
-          "on_hours_end": "13:00",
-          "on_wday": "31"
-        },
-        {
-          "mode": "0",
-          "term_start": "2023-01-01 00:00:00",
-          "on_days_start": "",
-          "on_days_end": "",
           "on_hours_start": "14:00",
           "on_hours_end": "15:00",
-          "on_wday": "31"
-        },
-        {
-          "mode": "0",
-          "term_start": "2023-01-01 00:00:00",
-          "on_days_start": "",
-          "on_days_end": "",
-          "on_hours_start": "16:00",
-          "on_hours_end": "17:00",
           "on_wday": "31"
         },
         {
@@ -1462,33 +1424,7 @@
         {
           "mode": "0",
           "term_start": "2023-01-01 00:00:00",
-          "on_days_start": "",
-          "on_days_end": "",
-          "on_hours_start": "8:00",
-          "on_hours_end": "9:00",
-          "on_wday": "31"
-        },
-        {
-          "mode": "0",
-          "term_start": "2023-01-01 00:00:00",
-          "on_days_start": "",
-          "on_days_end": "",
-          "on_hours_start": "10:00",
-          "on_hours_end": "11:00",
-          "on_wday": "31"
-        },
-        {
-          "mode": "0",
-          "term_start": "2023-01-01 00:00:00",
-          "on_days_start": "",
-          "on_days_end": "",
-          "on_hours_start": "12:00",
-          "on_hours_end": "13:00",
-          "on_wday": "31"
-        },
-        {
-          "mode": "0",
-          "term_start": "2023-01-01 00:00:00",
+          "term_end": "2023-07-12 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "14:00",
@@ -1498,15 +1434,7 @@
         {
           "mode": "0",
           "term_start": "2023-01-01 00:00:00",
-          "on_days_start": "",
-          "on_days_end": "",
-          "on_hours_start": "16:00",
-          "on_hours_end": "17:00",
-          "on_wday": "31"
-        },
-        {
-          "mode": "0",
-          "term_start": "2023-01-01 00:00:00",
+          "term_end": "2023-07-12 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "18:00",
@@ -1516,6 +1444,7 @@
         {
           "mode": "0",
           "term_start": "2023-01-01 00:00:00",
+          "term_end": "2023-07-12 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "22:00",
@@ -1525,6 +1454,7 @@
         {
           "mode": "0",
           "term_start": "2023-01-01 00:00:00",
+          "term_end": "2023-07-12 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "1:00",
@@ -1534,6 +1464,7 @@
         {
           "mode": "0",
           "term_start": "2023-01-01 00:00:00",
+          "term_end": "2023-07-12 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "8:00",
@@ -1543,6 +1474,7 @@
         {
           "mode": "0",
           "term_start": "2023-01-01 00:00:00",
+          "term_end": "2023-07-12 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "12:00",
@@ -1552,6 +1484,7 @@
         {
           "mode": "0",
           "term_start": "2023-01-01 00:00:00",
+          "term_end": "2023-07-12 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "16:00",
@@ -1561,6 +1494,7 @@
         {
           "mode": "0",
           "term_start": "2023-01-01 00:00:00",
+          "term_end": "2023-07-12 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "20:00",
@@ -1605,8 +1539,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-12-02 04:00:00",
-          "term_end": "2023-12-05 10:00:00",
+          "term_start": "2023-08-14 04:00:00",
+          "term_end": "2023-08-16 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -1621,8 +1555,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-09-19 04:00:00",
-          "term_end": "2023-12-01 23:59:59",
+          "term_start": "2023-06-15 04:00:00",
+          "term_end": "2023-08-13 23:59:59",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -1637,8 +1571,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2023-09-19 04:00:00",
-          "term_end": "2023-12-01 23:59:59",
+          "term_start": "2023-06-15 04:00:00",
+          "term_end": "2023-08-13 23:59:59",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -2350,7 +2284,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-07-12 11:00:00",
+          "term_end": "2023-08-16 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "14:00",
@@ -2359,7 +2294,8 @@
         },
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-07-12 11:00:00",
+          "term_end": "2023-08-16 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "18:00",
@@ -2368,7 +2304,8 @@
         },
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-07-12 11:00:00",
+          "term_end": "2023-08-16 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "22:00",
@@ -2377,7 +2314,8 @@
         },
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-07-12 11:00:00",
+          "term_end": "2023-08-16 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "1:00",
@@ -2386,7 +2324,8 @@
         },
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-07-12 11:00:00",
+          "term_end": "2023-08-16 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "8:00",
@@ -2395,7 +2334,8 @@
         },
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-07-12 11:00:00",
+          "term_end": "2023-08-16 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "12:00",
@@ -2404,7 +2344,8 @@
         },
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-07-12 11:00:00",
+          "term_end": "2023-08-16 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "16:00",
@@ -2413,7 +2354,8 @@
         },
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-07-12 11:00:00",
+          "term_end": "2023-08-16 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "20:00",
@@ -2937,7 +2879,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-01-01 00:00:00",
+          "term_end": "2030-09-30 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -3589,7 +3532,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-01-01 00:00:00",
+          "term_end": "2030-09-30 18:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -4033,7 +3977,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-01-01 00:00:00",
+          "term_end": "2030-09-30 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -4493,7 +4438,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-01-01 00:00:00",
+          "term_end": "2030-09-30 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -5500,7 +5446,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-01-01 00:00:00",
+          "term_end": "2030-09-30 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -6325,7 +6272,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-01-01 00:00:00",
+          "term_end": "2030-09-30 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
@@ -7102,7 +7050,8 @@
       "terms": [
         {
           "mode": "0",
-          "term_start": "2050-01-01 00:00:00",
+          "term_start": "2023-01-01 00:00:00",
+          "term_end": "2030-09-30 10:00:00",
           "on_days_start": "",
           "on_days_end": "",
           "on_hours_start": "",
