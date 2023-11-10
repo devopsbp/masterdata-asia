@@ -10717,7 +10717,7 @@
       "bgm_map_id": "rai001",
       "game_mode": "RaidBattle",
       "max_players": "30",
-      "want_players": "1",
+      "want_players": "3",
       "server_lifespan": "7200",
       "admin_description": "レイドボスバトル：デミドラゴン",
       "server_type": "dungeon-on-demand",
